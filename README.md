@@ -3,7 +3,7 @@
 # Mở terminal run: node basic_auth.js.
 # Mở postman chọn phương thức GET và nhập url: http://localhost:3000
 # Chọn tab Authorization -> tại mục Auth type chọn Basic Auth
-# Nhập username là: adminn   Password:123456  KẾT QUẢ TRẢ VỀ: Welcome! Visit first public resource.
+# Nhập username là: admin   Password:12345  KẾT QUẢ TRẢ VỀ: Welcome! Visit first public resource.
 <img width="1521" height="916" alt="image" src="https://github.com/user-attachments/assets/55500e7c-e66e-43ff-a57c-30a0789530d0" />
 
 
