@@ -9,7 +9,7 @@
 
 # Mở terminal run: node cookie_auth.js
 # Mở postman chọn phương thức POST và nhập url: http://localhost:3001/login
-# Chọn Body -> raw json và nhập {"username": "admin", "password": "12345"} vaf chonj Send
+# Chọn Body -> raw json và nhập {"username": "admin", "password": "12345"} và chọn Send
 <img width="1194" height="801" alt="image" src="https://github.com/user-attachments/assets/6ca6edfe-0c81-4b28-a4a3-6ca1d9b4d99a" />
 # Show cookie in mongoDB
 <img width="1089" height="547" alt="image" src="https://github.com/user-attachments/assets/c2280299-153a-4834-b31d-c8c47eabb25e" />
